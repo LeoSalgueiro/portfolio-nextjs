@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 w-full dark:bg-gray-950 dark:text-white  z-50">
       <div className="container mx-auto flex items-center justify-between h-full">
-        <a href="#" className="text-xl font-bold text-blue-500 dark:text-white">MyApp</a>
+        <a href="#" className="text-xl font-bold text-blue-500 dark:text-white">Portfolio</a>
         <button
           className="md:hidden text-blue-500 hover:text-blue-600 dark:text-white"
           onClick={toggleNavbar}
