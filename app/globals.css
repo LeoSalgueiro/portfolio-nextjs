@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+
+/* own styles */
+
+.bg-semi-transparent {
+  background-color: rgba(245, 245, 245, 0.63); /* Ajusta el último valor (0.5) para controlar la opacidad */
+}

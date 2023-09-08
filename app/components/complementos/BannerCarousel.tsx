@@ -6,8 +6,8 @@ const BannerCarousel = () => {
   return (
     <div className="max-w-screen-xl mx-auto mt-8">
       <div className=" mb-6">
-        <h2 className="text-2xl font-semibold">Bienvenido a nuestro sitio</h2>
-        <p className="text-gray-600">Explora nuestras ofertas y servicios.</p>
+        <h2 className="text-2xl font-semibold">Bienvenido a mi Portfolio</h2>
+        <p className="text-gray-600">Aquí verás algunos de los proyectos en los que trabajé y conocerás un poco de mí y de como contactarme</p>
       </div>
       <Carousel
         showStatus={false}
